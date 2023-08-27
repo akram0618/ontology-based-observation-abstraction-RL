@@ -1,0 +1,270 @@
+DS2 10 PERCENT Run 1:
+self.values:: [[0, 440, 22, 25], [440, 960, 14, 25], [960, 1440, 22, 25]]
+________________________________________________
+Results for PID
+Time spent out of range: 43200 minute /218640 minute
+Total consumption [kWh]: 9907.948563397607
+Total cost [HUF]: 318295.43037608435
+Weighted MSE error: 3.881931053756858
+Total reward: -64318.21772102766
+________________________________________________
+________________________________________________
+Results for DDPG
+Time spent out of range: 101400 minute /218640 minute
+Total consumption [kWh]: 10649.452058697208
+Total cost [HUF]: 337530.85277165275
+Weighted MSE error: 211.3865259755634
+Total reward: -74043.00221030712
+________________________________________________
+________________________________________________
+Results for PPO
+Time spent out of range: 137820 minute /218640 minute
+Total consumption [kWh]: 7424.16971128083
+Total cost [HUF]: 244539.27071039478
+Weighted MSE error: 780.8006884320736
+Total reward: -70712.21166500897
+________________________________________________
+
+DS2 10 PERCENT Run 2:
+self.values:: [[0, 440, 22, 25], [440, 960, 14, 25], [960, 1440, 22, 25]]
+________________________________________________
+Results for PID
+Time spent out of range: 43200 minute /218640 minute
+Total consumption [kWh]: 9907.948563397607
+Total cost [HUF]: 318295.43037608435
+Weighted MSE error: 3.881931053756858
+Total reward: -64318.21772102766
+________________________________________________
+________________________________________________
+Results for DDPG
+Time spent out of range: 101400 minute /218640 minute
+Total consumption [kWh]: 10649.452058697208
+Total cost [HUF]: 337530.85277165275
+Weighted MSE error: 211.3865259755634
+Total reward: -74043.00221030712
+________________________________________________
+________________________________________________
+Results for PPO
+Time spent out of range: 90060 minute /218640 minute
+Total consumption [kWh]: 9894.365412727386
+Total cost [HUF]: 323494.26906302135
+Weighted MSE error: 166.9419392852057
+Total reward: -50644.14359330927
+________________________________________________
+
+DS2 10 PERCENT Run 3:
+self.values:: [[0, 440, 22, 25], [440, 960, 14, 25], [960, 1440, 22, 25]]
+________________________________________________
+Results for PID
+Time spent out of range: 43200 minute /218640 minute
+Total consumption [kWh]: 9907.948563397607
+Total cost [HUF]: 318295.43037608435
+Weighted MSE error: 3.881931053756858
+Total reward: -64318.21772102766
+________________________________________________
+________________________________________________
+Results for DDPG
+Time spent out of range: 101400 minute /218640 minute
+Total consumption [kWh]: 10649.452058697208
+Total cost [HUF]: 337530.85277165275
+Weighted MSE error: 211.3865259755634
+Total reward: -74043.00221030712
+________________________________________________
+________________________________________________
+Results for PPO
+Time spent out of range: 138060 minute /218640 minute
+Total consumption [kWh]: 7385.626688768403
+Total cost [HUF]: 243228.265000526
+Weighted MSE error: 792.2021452827554
+Total reward: -71204.15301656857
+________________________________________________
+
+DS2 10 PERCENT Run 4:
+self.values:: [[0, 440, 22, 25], [440, 960, 14, 25], [960, 1440, 22, 25]]
+________________________________________________
+Results for PID
+Time spent out of range: 43200 minute /218640 minute
+Total consumption [kWh]: 9907.948563397607
+Total cost [HUF]: 318295.43037608435
+Weighted MSE error: 3.881931053756858
+Total reward: -64318.21772102766
+________________________________________________
+________________________________________________
+Results for DDPG
+Time spent out of range: 101400 minute /218640 minute
+Total consumption [kWh]: 10649.452058697208
+Total cost [HUF]: 337530.85277165275
+Weighted MSE error: 211.3865259755634
+Total reward: -74043.00221030712
+________________________________________________
+________________________________________________
+Results for PPO
+Time spent out of range: 93360 minute /218640 minute
+Total consumption [kWh]: 9492.389248504656
+Total cost [HUF]: 309634.22990652005
+Weighted MSE error: 237.2973342865864
+Total reward: -51603.696032329775
+________________________________________________
+
+DS2 10 PERCENT Run 5:
+self.values:: [[0, 440, 22, 25], [440, 960, 14, 25], [960, 1440, 22, 25]]
+________________________________________________
+Results for PID
+Time spent out of range: 43200 minute /218640 minute
+Total consumption [kWh]: 9907.948563397607
+Total cost [HUF]: 318295.43037608435
+Weighted MSE error: 3.881931053756858
+Total reward: -64318.21772102766
+________________________________________________
+________________________________________________
+Results for DDPG
+Time spent out of range: 101400 minute /218640 minute
+Total consumption [kWh]: 10649.452058697208
+Total cost [HUF]: 337530.85277165275
+Weighted MSE error: 211.3865259755634
+Total reward: -74043.00221030712
+________________________________________________
+________________________________________________
+Results for PPO
+Time spent out of range: 96780 minute /218640 minute
+Total consumption [kWh]: 9606.069570529937
+Total cost [HUF]: 313865.2972558652
+Weighted MSE error: 211.61898726700875
+Total reward: -51503.338256182586
+________________________________________________
+
+DS2 10 PERCENT Run 6:
+self.values:: [[0, 440, 22, 25], [440, 960, 14, 25], [960, 1440, 22, 25]]
+________________________________________________
+Results for PID
+Time spent out of range: 43200 minute /218640 minute
+Total consumption [kWh]: 9907.948563397607
+Total cost [HUF]: 318295.43037608435
+Weighted MSE error: 3.881931053756858
+Total reward: -64318.21772102766
+________________________________________________
+________________________________________________
+Results for DDPG
+Time spent out of range: 101400 minute /218640 minute
+Total consumption [kWh]: 10649.452058697208
+Total cost [HUF]: 337530.85277165275
+Weighted MSE error: 211.3865259755634
+Total reward: -74043.00221030712
+________________________________________________
+________________________________________________
+Results for PPO
+Time spent out of range: 103020 minute /218640 minute
+Total consumption [kWh]: 9679.567476119983
+Total cost [HUF]: 317665.56768778554
+Weighted MSE error: 210.5618123280809
+Total reward: -53378.354840619635
+________________________________________________
+
+DS2 10 PERCENT Run 7:
+self.values:: [[0, 440, 22, 25], [440, 960, 14, 25], [960, 1440, 22, 25]]
+________________________________________________
+Results for PID
+Time spent out of range: 43200 minute /218640 minute
+Total consumption [kWh]: 9907.948563397607
+Total cost [HUF]: 318295.43037608435
+Weighted MSE error: 3.881931053756858
+Total reward: -64318.21772102766
+________________________________________________
+________________________________________________
+Results for DDPG
+Time spent out of range: 101400 minute /218640 minute
+Total consumption [kWh]: 10649.452058697208
+Total cost [HUF]: 337530.85277165275
+Weighted MSE error: 211.3865259755634
+Total reward: -74043.00221030712
+________________________________________________
+________________________________________________
+Results for PPO
+Time spent out of range: 99060 minute /218640 minute
+Total consumption [kWh]: 9225.964449111943
+Total cost [HUF]: 300699.1550594635
+Weighted MSE error: 310.0133011289287
+Total reward: -53558.4334430524
+________________________________________________
+
+DS2 10 PERCENT Run 8:
+self.values:: [[0, 440, 22, 25], [440, 960, 14, 25], [960, 1440, 22, 25]]
+________________________________________________
+Results for PID
+Time spent out of range: 43200 minute /218640 minute
+Total consumption [kWh]: 9907.948563397607
+Total cost [HUF]: 318295.43037608435
+Weighted MSE error: 3.881931053756858
+Total reward: -64318.21772102766
+________________________________________________
+________________________________________________
+Results for DDPG
+Time spent out of range: 101400 minute /218640 minute
+Total consumption [kWh]: 10649.452058697208
+Total cost [HUF]: 337530.85277165275
+Weighted MSE error: 211.3865259755634
+Total reward: -74043.00221030712
+________________________________________________
+________________________________________________
+Results for PPO
+Time spent out of range: 141660 minute /218640 minute
+Total consumption [kWh]: 7302.9571568603615
+Total cost [HUF]: 240512.02765455926
+Weighted MSE error: 839.8733265948274
+Total reward: -72417.1066406033
+________________________________________________
+
+DS2 10 PERCENT Run 9:
+self.values:: [[0, 440, 22, 25], [440, 960, 14, 25], [960, 1440, 22, 25]]
+________________________________________________
+Results for PID
+Time spent out of range: 43200 minute /218640 minute
+Total consumption [kWh]: 9907.948563397607
+Total cost [HUF]: 318295.43037608435
+Weighted MSE error: 3.881931053756858
+Total reward: -64318.21772102766
+________________________________________________
+________________________________________________
+Results for DDPG
+Time spent out of range: 101400 minute /218640 minute
+Total consumption [kWh]: 10649.452058697208
+Total cost [HUF]: 337530.85277165275
+Weighted MSE error: 211.3865259755634
+Total reward: -74043.00221030712
+________________________________________________
+________________________________________________
+Results for PPO
+Time spent out of range: 89640 minute /218640 minute
+Total consumption [kWh]: 9850.759662902841
+Total cost [HUF]: 321697.3686102494
+Weighted MSE error: 172.1006782299689
+Total reward: -50417.40664504339
+________________________________________________
+
+DS2 10 PERCENT Run 10:
+self.values:: [[0, 440, 22, 25], [440, 960, 14, 25], [960, 1440, 22, 25]]
+________________________________________________
+Results for PID
+Time spent out of range: 43200 minute /218640 minute
+Total consumption [kWh]: 9907.948563397607
+Total cost [HUF]: 318295.43037608435
+Weighted MSE error: 3.881931053756858
+Total reward: -64318.21772102766
+________________________________________________
+________________________________________________
+Results for DDPG
+Time spent out of range: 101400 minute /218640 minute
+Total consumption [kWh]: 10649.452058697208
+Total cost [HUF]: 337530.85277165275
+Weighted MSE error: 211.3865259755634
+Total reward: -74043.00221030712
+________________________________________________
+________________________________________________
+Results for PPO
+Time spent out of range: 92400 minute /218640 minute
+Total consumption [kWh]: 9819.724753723123
+Total cost [HUF]: 321985.57804378134
+Weighted MSE error: 175.57898378609156
+Total reward: -50619.532529561664
+________________________________________________
+
