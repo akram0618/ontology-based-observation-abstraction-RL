@@ -1,0 +1,54 @@
+evaluation Run 1:
+self.values:: [[0, 440, 22, 25], [440, 960, 14, 25], [960, 1440, 22, 25]]
+________________________________________________
+Results for PID
+Time spent out of range: 9720 minute /218820 minute
+Total consumption [kWh]: 9673.49004035784
+Total cost [HUF]: 309901.46322638885
+Weighted MSE error: 320.4399970555225
+Total reward: -64024.04992827868
+________________________________________________
+________________________________________________
+Results for DDPG
+Time spent out of range: 110325 minute /218820 minute
+Total consumption [kWh]: 8966.535572546063
+Total cost [HUF]: 273719.96575442696
+Weighted MSE error: 6361.80179315436
+Total reward: -140224.39459022015
+________________________________________________
+________________________________________________
+Results for PPO
+Time spent out of range: 215610 minute /218820 minute
+Total consumption [kWh]: 1821.9437061843907
+Total cost [HUF]: 59504.994329080975
+Weighted MSE error: 131221.69788984407
+Total reward: -772621.6311501672
+________________________________________________
+
+evaluation Run 2:
+self.values:: [[0, 440, 22, 25], [440, 960, 14, 25], [960, 1440, 22, 25]]
+________________________________________________
+Results for PID
+Time spent out of range: 9720 minute /218820 minute
+Total consumption [kWh]: 9673.49004035784
+Total cost [HUF]: 309901.46322638885
+Weighted MSE error: 320.4399970555225
+Total reward: -64024.04992827868
+________________________________________________
+________________________________________________
+Results for DDPG
+Time spent out of range: 110325 minute /218820 minute
+Total consumption [kWh]: 8966.535572546063
+Total cost [HUF]: 273719.96575442696
+Weighted MSE error: 6361.80179315436
+Total reward: -140224.39459022015
+________________________________________________
+________________________________________________
+Results for PPO
+Time spent out of range: 215415 minute /218820 minute
+Total consumption [kWh]: 1840.5322556800897
+Total cost [HUF]: 60149.1764719682
+Weighted MSE error: 130748.17209049019
+Total reward: -770718.1459042
+________________________________________________
+

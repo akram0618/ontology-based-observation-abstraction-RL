@@ -1,0 +1,123 @@
+10% noise - evaluation Run 1:
+weather::       Year  Month  Day  Hour  Minute  Temperature
+0     2016     11    1     0       0         8.46
+1     2016     11    1     1       0         8.30
+2     2016     11    1     2       0         7.95
+3     2016     11    1     3       0         6.67
+4     2016     11    1     4       0         6.64
+...    ...    ...  ...   ...     ...          ...
+3643  2017      4    1    19       0        12.73
+3644  2017      4    1    20       0        11.85
+3645  2017      4    1    21       0        11.16
+3646  2017      4    1    22       0        11.01
+3647  2017      4    1    23       0        10.78
+
+[3648 rows x 6 columns]
+self.values:: [[0, 440, 22, 25], [440, 960, 14, 25], [960, 1440, 22, 25]]
+________________________________________________
+Results for PID
+Time spent out of range: 64680 minute /218640 minute
+Total consumption [kWh]: 7930.008516330098
+Total cost [HUF]: 253762.61873038896
+Weighted MSE error: 243.87447854850288
+Total reward: -79723.84083599581
+________________________________________________
+________________________________________________
+Results for DDPG
+Time spent out of range: 136980 minute /218640 minute
+Total consumption [kWh]: 8874.183260220476
+Total cost [HUF]: 280749.15812816634
+Weighted MSE error: 1533.0300532582326
+Total reward: -162826.4941307538
+________________________________________________
+________________________________________________
+Results for PPO
+Time spent out of range: 122580 minute /218640 minute
+Total consumption [kWh]: 6940.7568938684435
+Total cost [HUF]: 227340.64358583273
+Weighted MSE error: 807.4490754381862
+Total reward: -83975.24609791061
+________________________________________________
+
+10% noise - evaluation Run 2:
+weather::       Year  Month  Day  Hour  Minute  Temperature
+0     2016     11    1     0       0         8.46
+1     2016     11    1     1       0         8.30
+2     2016     11    1     2       0         7.95
+3     2016     11    1     3       0         6.67
+4     2016     11    1     4       0         6.64
+...    ...    ...  ...   ...     ...          ...
+3643  2017      4    1    19       0        12.73
+3644  2017      4    1    20       0        11.85
+3645  2017      4    1    21       0        11.16
+3646  2017      4    1    22       0        11.01
+3647  2017      4    1    23       0        10.78
+
+[3648 rows x 6 columns]
+self.values:: [[0, 440, 22, 25], [440, 960, 14, 25], [960, 1440, 22, 25]]
+________________________________________________
+Results for PID
+Time spent out of range: 69540 minute /218640 minute
+Total consumption [kWh]: 7783.59498817119
+Total cost [HUF]: 251203.81951092652
+Weighted MSE error: 431.3372510135567
+Total reward: -95674.86093634133
+________________________________________________
+________________________________________________
+Results for DDPG
+Time spent out of range: 134340 minute /218640 minute
+Total consumption [kWh]: 8747.473714777028
+Total cost [HUF]: 276743.877756389
+Weighted MSE error: 2026.6512177804648
+Total reward: -180355.9064308038
+________________________________________________
+________________________________________________
+Results for PPO
+Time spent out of range: 123600 minute /218640 minute
+Total consumption [kWh]: 7062.342259338674
+Total cost [HUF]: 231273.0892089556
+Weighted MSE error: 1117.2644981952762
+Total reward: -110645.32814923637
+________________________________________________
+
+10% noise - evaluation Run 3:
+weather::       Year  Month  Day  Hour  Minute  Temperature
+0     2016     11    1     0       0         8.46
+1     2016     11    1     1       0         8.30
+2     2016     11    1     2       0         7.95
+3     2016     11    1     3       0         6.67
+4     2016     11    1     4       0         6.64
+...    ...    ...  ...   ...     ...          ...
+3643  2017      4    1    19       0        12.73
+3644  2017      4    1    20       0        11.85
+3645  2017      4    1    21       0        11.16
+3646  2017      4    1    22       0        11.01
+3647  2017      4    1    23       0        10.78
+
+[3648 rows x 6 columns]
+self.values:: [[0, 440, 22, 25], [440, 960, 14, 25], [960, 1440, 22, 25]]
+________________________________________________
+Results for PID
+Time spent out of range: 68160 minute /218640 minute
+Total consumption [kWh]: 7830.61272106711
+Total cost [HUF]: 251281.14222998495
+Weighted MSE error: 307.37638515741435
+Total reward: -86004.8349742859
+________________________________________________
+________________________________________________
+Results for DDPG
+Time spent out of range: 138480 minute /218640 minute
+Total consumption [kWh]: 8692.340003236659
+Total cost [HUF]: 274487.07354177884
+Weighted MSE error: 1727.5748121723755
+Total reward: -168112.54829936687
+________________________________________________
+________________________________________________
+Results for PPO
+Time spent out of range: 128640 minute /218640 minute
+Total consumption [kWh]: 6963.871868468528
+Total cost [HUF]: 227653.2147187535
+Weighted MSE error: 999.5629469817859
+Total reward: -100232.01467025996
+________________________________________________
+
